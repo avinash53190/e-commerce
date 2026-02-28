@@ -13,8 +13,7 @@ export default function Footer() {
               <span className="font-bold text-lg text-white">NexMart</span>
             </div>
             <p className="text-sm leading-relaxed">
-              Your premium multi-vendor marketplace for quality products across
-              all categories.
+              quality products across all categories.
             </p>
           </div>
 
